@@ -21,7 +21,8 @@ The midterm result:
  
  Whats next:
  ...?
-![](https://s3-eu-west-1.amazonaws.com/cdn.pbrd.co/images/IumU91L.png)
+ My game screenshot:
+![](https://image.prntscr.com/image/nidbafpCTB_-GLDRdb5J3w.png)
 
 
 
