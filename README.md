@@ -21,7 +21,7 @@ The midterm result:
  
  Whats next:
  ...?
-![](https://s3-eu-west-1.amazonaws.com/cdn.pbrd.co/images/IumU91L.png?o=1)
+![](https://s3-eu-west-1.amazonaws.com/cdn.pbrd.co/images/IumU91L.png)
 
 
 
